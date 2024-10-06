@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="generic study">
-      <change afterPath="$PROJECT_DIR$/src/generic/ex1/BoxMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/ex1/GenericBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/ex1/RowTypeMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +38,7 @@
     "Application.BoxMain1.executor": "Run",
     "Application.BoxMain2.executor": "Run",
     "Application.BoxMain3.executor": "Run",
+    "Application.RowTypeMain.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -47,7 +47,7 @@
     "onboarding.tips.debug.path": "C:/Users/gurwl/java_practice/java-mid2/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BoxMain3">
+  <component name="RunManager" selected="Application.RowTypeMain">
     <configuration name="BoxMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generic.ex1.BoxMain1" />
       <module name="java-mid2" />
@@ -87,11 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.test" />
+    <configuration name="RowTypeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.ex1.RowTypeMain" />
+      <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="generic.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RowTypeMain" />
         <item itemvalue="Application.BoxMain3" />
         <item itemvalue="Application.BoxMain2" />
         <item itemvalue="Application.BoxMain1" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728200415053</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728201672085</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728201672085</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
