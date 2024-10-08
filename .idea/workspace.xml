@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="generic study">
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/AnimalHospitalMainV0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/CatHospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/DogHospital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-10-05__10_31__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-10-05__10_31__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/AnimalHospitalMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/AnimalHospitalV1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +62,7 @@
       <recent name="generic.test.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalHospitalMainV0">
+  <component name="RunManager" selected="Application.AnimalHospitalMainV1">
     <configuration name="AnimalHospitalMainV0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generic.test.ex3.AnimalHospitalMainV0" />
       <module name="java-mid2" />
@@ -79,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimalMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.ex2.AnimalMain1" />
+    <configuration name="AnimalHospitalMainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.test.ex3.AnimalHospitalMainV1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.ex2.*" />
+          <option name="PATTERN" value="generic.test.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimalHospitalMainV1" />
         <item itemvalue="Application.AnimalHospitalMainV0" />
         <item itemvalue="Application.PairTest" />
         <item itemvalue="Application.ContainerTest" />
         <item itemvalue="Application.AnimalMain2" />
-        <item itemvalue="Application.AnimalMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728206209250</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728373873697</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728373873697</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
