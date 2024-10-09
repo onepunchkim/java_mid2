@@ -10,5 +10,11 @@ public class MethodMain1 {
         Integer result = GenericMethod.<Integer>genericMethod(i);
         Integer integerValue = GenericMethod.<Integer>numberMethod(10);
         Double doubleValue = GenericMethod.<Double>numberMethod(20.0);
+
+        //타입 추론, 타입 인자 생략
+        System.out.println("타입 추론");
+        Integer result2 = GenericMethod.genericMethod(i);
+        Integer integerValue2 = GenericMethod.numberMethod(10);
+        Double doubleValue2 = GenericMethod.numberMethod(20.0);
     }
 }
