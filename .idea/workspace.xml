@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="generic study">
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/ShuttleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/UnitUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/UnitUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/unit/BioUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/unit/Marine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/unit/Zealot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/unit/Zergling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/UnitPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/test/ex3/UnitePrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +51,7 @@
     "Application.MethodMain3.executor": "Run",
     "Application.PairTest.executor": "Run",
     "Application.RowTypeMain.executor": "Run",
+    "Application.ShuttleTest.executor": "Run",
     "Application.UnitUtilTest.executor": "Run",
     "Application.WildcardMain1.executor": "Run",
     "Application.WildcardMain2.executor": "Run",
@@ -70,6 +66,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="generic.test.ex3" />
       <recent name="generic.test.ex2" />
       <recent name="generic.test.ex1" />
     </key>
@@ -78,13 +75,13 @@
       <recent name="generic.test.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShuttleTest">
-    <configuration name="MethodMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.ex4.MethodMain3" />
+  <component name="RunManager" selected="Application.UnitPrinterTest">
+    <configuration name="ShuttleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.test.ex3.ShuttleTest" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.ex4.*" />
+          <option name="PATTERN" value="generic.test.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuttleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.test.ex3.ShuttleTest" />
+    <configuration name="UnitPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.test.ex3.UnitPrinterTest" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UnitPrinterTest" />
         <item itemvalue="Application.ShuttleTest" />
         <item itemvalue="Application.UnitUtilTest" />
         <item itemvalue="Application.WildcardMain2" />
         <item itemvalue="Application.WildcardMain1" />
-        <item itemvalue="Application.MethodMain3" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728546669980</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728547785724</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1728547785724</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
