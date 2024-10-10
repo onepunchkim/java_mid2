@@ -70,11 +70,11 @@
   </component>
   <component name="RunManager" selected="Application.WildcardMain2">
     <configuration name="MethodMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.test.ex4.MethodMain1" />
+      <option name="MAIN_CLASS_NAME" value="generic.ex4.MethodMain1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.test.ex4.*" />
+          <option name="PATTERN" value="generic.ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="MethodMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.test.ex4.MethodMain2" />
+      <option name="MAIN_CLASS_NAME" value="generic.ex4.MethodMain2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.test.ex4.*" />
+          <option name="PATTERN" value="generic.ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +96,11 @@
       </method>
     </configuration>
     <configuration name="MethodMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.test.ex4.MethodMain3" />
+      <option name="MAIN_CLASS_NAME" value="generic.ex4.MethodMain3" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.test.ex4.*" />
+          <option name="PATTERN" value="generic.ex4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
       </method>
     </configuration>
     <configuration name="WildcardMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.test.ex5.WildcardMain1" />
+      <option name="MAIN_CLASS_NAME" value="generic.ex5.WildcardMain1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.test.ex5.*" />
+          <option name="PATTERN" value="generic.ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
       </method>
     </configuration>
     <configuration name="WildcardMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.test.ex5.WildcardMain2" />
+      <option name="MAIN_CLASS_NAME" value="generic.ex5.WildcardMain2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.test.ex5.*" />
+          <option name="PATTERN" value="generic.ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728545625464</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728546481551</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728546481551</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
