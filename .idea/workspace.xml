@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="array study">
-      <change afterPath="$PROJECT_DIR$/src/collention/array/MyArrayListV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collention/array/MyArrayListV1Main.java" afterDir="false" />
+    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="arraylist study">
+      <change afterPath="$PROJECT_DIR$/src/collention/array/MyArrayListV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/array/MyArrayListV2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/array/MyArrayListV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/array/MyArrayListV3Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +54,8 @@
     "Application.MethodMain2.executor": "Run",
     "Application.MethodMain3.executor": "Run",
     "Application.MyArrayListV1Main.executor": "Run",
+    "Application.MyArrayListV2Main.executor": "Run",
+    "Application.MyArrayListV3Main.executor": "Run",
     "Application.PairTest.executor": "Run",
     "Application.RowTypeMain.executor": "Run",
     "Application.ShuttleTest.executor": "Run",
@@ -75,11 +79,12 @@
       <recent name="generic.test.ex1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collention.array" />
       <recent name="generic.test.ex5" />
       <recent name="generic.test.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyArrayListV1Main">
+  <component name="RunManager" selected="Application.MyArrayListV3Main">
     <configuration name="ArrayMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.array.ArrayMain1" />
       <module name="java-mid2" />
@@ -119,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuttleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.test.ex3.ShuttleTest" />
+    <configuration name="MyArrayListV2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.array.MyArrayListV2Main" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.test.ex3.*" />
+          <option name="PATTERN" value="collention.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.test.ex3.UnitPrinterTest" />
+    <configuration name="MyArrayListV3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.array.MyArrayListV3Main" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generic.test.ex3.*" />
+          <option name="PATTERN" value="collention.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyArrayListV3Main" />
+        <item itemvalue="Application.MyArrayListV2Main" />
         <item itemvalue="Application.MyArrayListV1Main" />
         <item itemvalue="Application.ArrayMain2" />
         <item itemvalue="Application.ArrayMain1" />
-        <item itemvalue="Application.UnitPrinterTest" />
-        <item itemvalue="Application.ShuttleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +376,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728554015136</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="arraylist study">
+      <option name="closed" value="true" />
+      <created>1728631728640</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1728631728640</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -379,6 +392,7 @@
     <MESSAGE value="generic study" />
     <MESSAGE value="`generic study`" />
     <MESSAGE value="array study" />
-    <option name="LAST_COMMIT_MESSAGE" value="array study" />
+    <MESSAGE value="arraylist study" />
+    <option name="LAST_COMMIT_MESSAGE" value="arraylist study" />
   </component>
 </project>
