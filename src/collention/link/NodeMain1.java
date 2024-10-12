@@ -7,7 +7,7 @@ public class NodeMain1 {
         first.next = new Node("B");
         first.next.next = new Node("C");
 
-        System.out.println("모든 노드 탐색");
+        System.out.println("모든 노드 탐색하기");
         Node x = first;
         while(x != null) {
             System.out.println(x.item);
