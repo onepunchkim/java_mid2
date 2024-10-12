@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="arraylist study">
-      <change afterPath="$PROJECT_DIR$/src/collention/array/MyArrayListV3BadMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collention/array/MyArrayListV4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collention/array/MyArrayListV4Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/link/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/link/NodeMain1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +55,8 @@
     "Application.MyArrayListV2Main.executor": "Run",
     "Application.MyArrayListV3BadMain.executor": "Run",
     "Application.MyArrayListV3Main.executor": "Run",
+    "Application.MyArrayListV4Main.executor": "Run",
+    "Application.NodeMain1.executor": "Run",
     "Application.PairTest.executor": "Run",
     "Application.RowTypeMain.executor": "Run",
     "Application.ShuttleTest.executor": "Run",
@@ -84,20 +85,7 @@
       <recent name="generic.test.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyArrayListV4Main">
-    <configuration name="MyArrayListV1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.array.MyArrayListV1Main" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collention.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NodeMain1">
     <configuration name="MyArrayListV2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.array.MyArrayListV2Main" />
       <module name="java-mid2" />
@@ -150,13 +138,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NodeMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.link.NodeMain1" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collention.link.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NodeMain1" />
         <item itemvalue="Application.MyArrayListV4Main" />
         <item itemvalue="Application.MyArrayListV3BadMain" />
         <item itemvalue="Application.MyArrayListV3Main" />
         <item itemvalue="Application.MyArrayListV2Main" />
-        <item itemvalue="Application.MyArrayListV1Main" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728635206108</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="arraylist study">
+      <option name="closed" value="true" />
+      <created>1728638412581</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1728638412581</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
