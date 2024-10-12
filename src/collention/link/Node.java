@@ -6,5 +6,6 @@ public class Node {
 
     public Node(Object item) {
         this.item = item;
+        System.out.println("");
     }
 }
