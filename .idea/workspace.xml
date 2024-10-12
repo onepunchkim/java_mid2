@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="node study">
-      <change afterPath="$PROJECT_DIR$/src/collention/link/NodeMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collention/link/NodeMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/link/MyLinkedListV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/link/MyLinkedListV1Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collention/link/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collention/link/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,7 @@
     "Application.MyArrayListV3BadMain.executor": "Run",
     "Application.MyArrayListV3Main.executor": "Run",
     "Application.MyArrayListV4Main.executor": "Run",
+    "Application.MyLinkedListV1Main.executor": "Run",
     "Application.NodeMain1.executor": "Run",
     "Application.NodeMain2.executor": "Run",
     "Application.NodeMain3.executor": "Run",
@@ -88,9 +88,9 @@
       <recent name="generic.test.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NodeMain3">
-    <configuration name="MyArrayListV3BadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.array.MyArrayListV3BadMain" />
+  <component name="RunManager" selected="Application.MyLinkedListV1Main">
+    <configuration name="MyArrayListV4Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.array.MyArrayListV4Main" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArrayListV4Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.array.MyArrayListV4Main" />
+    <configuration name="MyLinkedListV1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.link.MyLinkedListV1Main" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.array.*" />
+          <option name="PATTERN" value="collention.link.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyLinkedListV1Main" />
         <item itemvalue="Application.NodeMain3" />
         <item itemvalue="Application.NodeMain2" />
         <item itemvalue="Application.NodeMain1" />
         <item itemvalue="Application.MyArrayListV4Main" />
-        <item itemvalue="Application.MyArrayListV3BadMain" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +428,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728719394457</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="node study">
+      <option name="closed" value="true" />
+      <created>1728721262223</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1728721262223</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
