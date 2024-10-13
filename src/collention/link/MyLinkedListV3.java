@@ -37,7 +37,7 @@ public class MyLinkedListV3<E> {
         size++;
     }
 
-    public Object set(int index, E element) {
+    public E set(int index, E element) {
         Node<E> x = getNode(index);
         E oldValue = x.item;
         x.item = element;
