@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="list study">
-      <change afterPath="$PROJECT_DIR$/src/collention/list/BatchProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/list/MyListPerformanceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,50 +33,52 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AnimalHospitalMainV0.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimalHospitalMainV1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimalHospitalMainV2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimalHospitalMainV3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimalMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimalMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BoxMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BoxMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BoxMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContainerTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyArrayListV1Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyArrayListV2Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyArrayListV3BadMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyArrayListV3Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyArrayListV4Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyLinkedListV1Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyLinkedListV2Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyLinkedListV3Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NodeMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NodeMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NodeMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PairTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RowTypeMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShuttleTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnitPrinterTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnitUtilTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WildcardMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WildcardMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gurwl/java_practice/java-mid2/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnimalHospitalMainV0.executor": "Run",
+    "Application.AnimalHospitalMainV1.executor": "Run",
+    "Application.AnimalHospitalMainV2.executor": "Run",
+    "Application.AnimalHospitalMainV3.executor": "Run",
+    "Application.AnimalMain1.executor": "Run",
+    "Application.AnimalMain2.executor": "Run",
+    "Application.ArrayMain1.executor": "Run",
+    "Application.ArrayMain2.executor": "Run",
+    "Application.BatchProcessorMain.executor": "Run",
+    "Application.BoxMain1.executor": "Run",
+    "Application.BoxMain2.executor": "Run",
+    "Application.BoxMain3.executor": "Run",
+    "Application.ContainerTest.executor": "Run",
+    "Application.MethodMain1.executor": "Run",
+    "Application.MethodMain2.executor": "Run",
+    "Application.MethodMain3.executor": "Run",
+    "Application.MyArrayListV1Main.executor": "Run",
+    "Application.MyArrayListV2Main.executor": "Run",
+    "Application.MyArrayListV3BadMain.executor": "Run",
+    "Application.MyArrayListV3Main.executor": "Run",
+    "Application.MyArrayListV4Main.executor": "Run",
+    "Application.MyLinkedListV1Main.executor": "Run",
+    "Application.MyLinkedListV2Main.executor": "Run",
+    "Application.MyLinkedListV3Main.executor": "Run",
+    "Application.MyListPerformanceTest.executor": "Run",
+    "Application.NodeMain1.executor": "Run",
+    "Application.NodeMain2.executor": "Run",
+    "Application.NodeMain3.executor": "Run",
+    "Application.PairTest.executor": "Run",
+    "Application.RowTypeMain.executor": "Run",
+    "Application.ShuttleTest.executor": "Run",
+    "Application.UnitPrinterTest.executor": "Run",
+    "Application.UnitUtilTest.executor": "Run",
+    "Application.WildcardMain1.executor": "Run",
+    "Application.WildcardMain2.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/gurwl/java_practice/java-mid2/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="generic.test.ex3" />
@@ -91,7 +93,7 @@
       <recent name="generic.test.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BatchProcessorMain">
+  <component name="RunManager" selected="Application.MyListPerformanceTest">
     <configuration name="BatchProcessorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.list.BatchProcessorMain" />
       <module name="java-mid2" />
@@ -144,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NodeMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.link.NodeMain3" />
+    <configuration name="MyListPerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.list.MyListPerformanceTest" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.link.*" />
+          <option name="PATTERN" value="collention.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyListPerformanceTest" />
         <item itemvalue="Application.BatchProcessorMain" />
         <item itemvalue="Application.MyLinkedListV3Main" />
         <item itemvalue="Application.MyLinkedListV2Main" />
         <item itemvalue="Application.MyLinkedListV1Main" />
-        <item itemvalue="Application.NodeMain3" />
       </list>
     </recent_temporary>
   </component>
@@ -479,7 +481,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728798816051</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="list study">
+      <option name="closed" value="true" />
+      <created>1728801282181</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1728801282181</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
