@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="list study">
-      <change afterPath="$PROJECT_DIR$/src/collention/list/JavaListPerformanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/list/test/ex1/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/list/test/ex1/ListEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/list/test/ex1/ListEx2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +43,7 @@
     "Application.AnimalHospitalMainV3.executor": "Run",
     "Application.AnimalMain1.executor": "Run",
     "Application.AnimalMain2.executor": "Run",
+    "Application.ArrayEx1.executor": "Run",
     "Application.ArrayMain1.executor": "Run",
     "Application.ArrayMain2.executor": "Run",
     "Application.BatchProcessorMain.executor": "Run",
@@ -49,6 +52,7 @@
     "Application.BoxMain3.executor": "Run",
     "Application.ContainerTest.executor": "Run",
     "Application.JavaListPerformanceTest.executor": "Run",
+    "Application.ListEx1.executor": "Run",
     "Application.MethodMain1.executor": "Run",
     "Application.MethodMain2.executor": "Run",
     "Application.MethodMain3.executor": "Run",
@@ -87,20 +91,20 @@
       <recent name="generic.test.ex1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collention.list.test.ex1" />
       <recent name="collention.list" />
       <recent name="collention.link" />
       <recent name="collention.array" />
       <recent name="generic.test.ex5" />
-      <recent name="generic.test.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaListPerformanceTest">
-    <configuration name="BatchProcessorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.list.BatchProcessorMain" />
+  <component name="RunManager" selected="Application.ListEx3">
+    <configuration name="ArrayEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.list.test.ex1.ArrayEx1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.list.*" />
+          <option name="PATTERN" value="collention.list.test.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLinkedListV2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.link.MyLinkedListV2Main" />
+    <configuration name="ListEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.list.test.ex1.ListEx1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.link.*" />
+          <option name="PATTERN" value="collention.list.test.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLinkedListV3Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.link.MyLinkedListV3Main" />
+    <configuration name="ListEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.list.test.ex1.ListEx2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.link.*" />
+          <option name="PATTERN" value="collention.list.test.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyListPerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.list.MyListPerformanceTest" />
+    <configuration name="ListEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.list.test.ex1.ListEx3" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.list.*" />
+          <option name="PATTERN" value="collention.list.test.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListEx3" />
+        <item itemvalue="Application.ListEx2" />
+        <item itemvalue="Application.ListEx1" />
+        <item itemvalue="Application.ArrayEx1" />
         <item itemvalue="Application.JavaListPerformanceTest" />
-        <item itemvalue="Application.MyListPerformanceTest" />
-        <item itemvalue="Application.BatchProcessorMain" />
-        <item itemvalue="Application.MyLinkedListV3Main" />
-        <item itemvalue="Application.MyLinkedListV2Main" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728813131506</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="list study">
+      <option name="closed" value="true" />
+      <created>1728977634769</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1728977634769</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
