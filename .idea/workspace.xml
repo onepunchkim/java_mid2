@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="hash study">
-      <change afterPath="$PROJECT_DIR$/src/collention/set/HashStart2.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="hash study" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +46,7 @@
     "Application.BoxMain3.executor": "Run",
     "Application.ContainerTest.executor": "Run",
     "Application.HashStart1.executor": "Run",
+    "Application.HashStart2.executor": "Run",
     "Application.MethodMain1.executor": "Run",
     "Application.MethodMain2.executor": "Run",
     "Application.MethodMain3.executor": "Run",
@@ -87,27 +86,14 @@
       <recent name="generic.test.ex1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collention.set" />
       <recent name="collention.list" />
       <recent name="collention.link" />
       <recent name="collention.array" />
       <recent name="generic.test.ex5" />
-      <recent name="generic.test.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashStart2">
-    <configuration name="BatchProcessorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.list.BatchProcessorMain" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collention.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HashStart3">
     <configuration name="HashStart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.set.HashStart1" />
       <module name="java-mid2" />
@@ -123,6 +109,19 @@
     </configuration>
     <configuration name="HashStart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.set.HashStart2" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collention.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashStart3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.HashStart3" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
@@ -162,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashStart3" />
         <item itemvalue="Application.HashStart2" />
         <item itemvalue="Application.HashStart1" />
         <item itemvalue="Application.MyHashSetV0Main" />
         <item itemvalue="Application.MyListPerformanceTest" />
-        <item itemvalue="Application.BatchProcessorMain" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +505,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729074488796</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="hash study">
+      <option name="closed" value="true" />
+      <created>1729075333436</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1729075333436</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
