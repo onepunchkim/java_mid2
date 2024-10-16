@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="list study">
-      <change afterPath="$PROJECT_DIR$/src/collention/set/MyHashSetV0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collention/set/MyHashSetV0Main.java" afterDir="false" />
+    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="set study">
+      <change afterPath="$PROJECT_DIR$/src/collention/set/HashStart1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +48,7 @@
     "Application.BoxMain2.executor": "Run",
     "Application.BoxMain3.executor": "Run",
     "Application.ContainerTest.executor": "Run",
+    "Application.HashStart1.executor": "Run",
     "Application.MethodMain1.executor": "Run",
     "Application.MethodMain2.executor": "Run",
     "Application.MethodMain3.executor": "Run",
@@ -95,7 +95,7 @@
       <recent name="generic.test.ex3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyHashSetV0Main">
+  <component name="RunManager" selected="Application.HashStart1">
     <configuration name="BatchProcessorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.list.BatchProcessorMain" />
       <module name="java-mid2" />
@@ -109,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashSetV0Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.set.MyHashSetV0Main" />
+    <configuration name="HashStart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.HashStart1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
@@ -122,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLinkedListV2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.link.MyLinkedListV2Main" />
+    <configuration name="MyHashSetV0Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.MyHashSetV0Main" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.link.*" />
+          <option name="PATTERN" value="collention.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashStart1" />
         <item itemvalue="Application.MyHashSetV0Main" />
         <item itemvalue="Application.MyListPerformanceTest" />
         <item itemvalue="Application.BatchProcessorMain" />
         <item itemvalue="Application.MyLinkedListV3Main" />
-        <item itemvalue="Application.MyLinkedListV2Main" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728801282181</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="set study">
+      <option name="closed" value="true" />
+      <created>1729066356843</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1729066356843</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -503,6 +511,7 @@
     <MESSAGE value="node study" />
     <MESSAGE value="linkedlist study" />
     <MESSAGE value="list study" />
-    <option name="LAST_COMMIT_MESSAGE" value="list study" />
+    <MESSAGE value="set study" />
+    <option name="LAST_COMMIT_MESSAGE" value="set study" />
   </component>
 </project>
