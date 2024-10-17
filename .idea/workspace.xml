@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="hash study">
-      <change afterPath="$PROJECT_DIR$/src/collention/set/HashStart4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/set/HashStart5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "Application.HashStart2.executor": "Run",
     "Application.HashStart3.executor": "Run",
     "Application.HashStart4.executor": "Run",
+    "Application.HashStart5.executor": "Run",
     "Application.MethodMain1.executor": "Run",
     "Application.MethodMain2.executor": "Run",
     "Application.MethodMain3.executor": "Run",
@@ -98,7 +99,7 @@
       <recent name="generic.test.ex5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashStart4">
+  <component name="RunManager" selected="Application.HashStart5">
     <configuration name="HashStart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.set.HashStart1" />
       <module name="java-mid2" />
@@ -151,8 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashSetV0Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.set.MyHashSetV0Main" />
+    <configuration name="HashStart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.HashStart5" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
@@ -166,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashStart5" />
         <item itemvalue="Application.HashStart4" />
         <item itemvalue="Application.HashStart3" />
         <item itemvalue="Application.HashStart2" />
         <item itemvalue="Application.HashStart1" />
-        <item itemvalue="Application.MyHashSetV0Main" />
       </list>
     </recent_temporary>
   </component>
@@ -526,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729075865998</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="hash study">
+      <option name="closed" value="true" />
+      <created>1729154068044</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1729154068044</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
