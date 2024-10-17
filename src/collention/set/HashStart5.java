@@ -7,7 +7,7 @@ public class HashStart5 {
     static final int CAPACITY = 10;
 
     public static void main(String[] args) {
-        //{1, 2, 5, 8, 14, 99}
+        //{1, 2, 5, 8, 14, 99, 9}
         LinkedList<Integer>[] buckets = new LinkedList[CAPACITY];
         for (int i = 0; i < CAPACITY; i++) {
             buckets[i] = new LinkedList<>();
