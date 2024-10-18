@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="hash study">
-      <change afterPath="$PROJECT_DIR$/src/collention/set/StringHashMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/set/JavaHashCodeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/set/member/Member.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +50,7 @@
     "Application.BoxMain2.executor": "Run",
     "Application.BoxMain3.executor": "Run",
     "Application.ContainerTest.executor": "Run",
+    "Application.JavaHashCodeMain.executor": "Run",
     "Application.JavaListPerformanceTest.executor": "Run",
     "Application.ListEx1.executor": "Run",
     "Application.ListEx2.executor": "Run",
@@ -102,13 +104,13 @@
       <recent name="generic.test.ex5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringHashMain">
-    <configuration name="ListEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.list.test.ex1.ListEx2" />
+  <component name="RunManager" selected="Application.JavaHashCodeMain">
+    <configuration name="JavaHashCodeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.JavaHashCodeMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.list.test.ex1.*" />
+          <option name="PATTERN" value="collention.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaHashCodeMain" />
         <item itemvalue="Application.StringHashMain" />
         <item itemvalue="Application.MyHashSetV1Main" />
         <item itemvalue="Application.ShoppingCartMain" />
         <item itemvalue="Application.ListEx3" />
-        <item itemvalue="Application.ListEx2" />
       </list>
     </recent_temporary>
   </component>
@@ -530,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729239096936</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="hash study">
+      <option name="closed" value="true" />
+      <created>1729243386309</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1729243386309</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
