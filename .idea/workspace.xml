@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="hash study">
-      <change afterPath="$PROJECT_DIR$/src/collention/set/JavaHashCodeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collention/set/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/set/MyHashSetV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/set/MyHashSetV2Main1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "Application.MyArrayListV3Main.executor": "Run",
     "Application.MyArrayListV4Main.executor": "Run",
     "Application.MyHashSetV1Main.executor": "Run",
+    "Application.MyHashSetV2Main1.executor": "Run",
     "Application.MyLinkedListV1Main.executor": "Run",
     "Application.MyLinkedListV2Main.executor": "Run",
     "Application.MyLinkedListV3Main.executor": "Run",
@@ -97,14 +98,14 @@
       <recent name="generic.test.ex1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collention.set" />
       <recent name="collention.list.test.ex1" />
       <recent name="collention.list" />
       <recent name="collention.link" />
       <recent name="collention.array" />
-      <recent name="generic.test.ex5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaHashCodeMain">
+  <component name="RunManager" selected="Application.MyHashSetV2Main1">
     <configuration name="JavaHashCodeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.set.JavaHashCodeMain" />
       <module name="java-mid2" />
@@ -118,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.list.test.ex1.ListEx3" />
+    <configuration name="MyHashSetV1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.MyHashSetV1Main" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.list.test.ex1.*" />
+          <option name="PATTERN" value="collention.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashSetV1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.set.MyHashSetV1Main" />
+    <configuration name="MyHashSetV2Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.MyHashSetV2Main1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
@@ -172,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyHashSetV2Main1" />
         <item itemvalue="Application.JavaHashCodeMain" />
         <item itemvalue="Application.StringHashMain" />
         <item itemvalue="Application.MyHashSetV1Main" />
         <item itemvalue="Application.ShoppingCartMain" />
-        <item itemvalue="Application.ListEx3" />
       </list>
     </recent_temporary>
   </component>
@@ -540,7 +541,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729243386309</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="hash study">
+      <option name="closed" value="true" />
+      <created>1729244571192</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1729244571192</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
