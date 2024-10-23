@@ -110,7 +110,7 @@
       <recent name="collention.link" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashAndEqualsMain2">
+  <component name="RunManager" selected="Application.HashAndEqualsMain3">
     <configuration name="HashAndEqualsMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.set.member.HashAndEqualsMain1" />
       <module name="java-mid2" />
@@ -137,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaHashCodeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.set.JavaHashCodeMain" />
+    <configuration name="HashAndEqualsMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.member.HashAndEqualsMain3" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.set.*" />
+          <option name="PATTERN" value="collention.set.member.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashAndEqualsMain3" />
         <item itemvalue="Application.HashAndEqualsMain2" />
         <item itemvalue="Application.HashAndEqualsMain1" />
         <item itemvalue="Application.MyHashSetV2Main2" />
         <item itemvalue="Application.MyHashSetV2Main1" />
-        <item itemvalue="Application.JavaHashCodeMain" />
       </list>
     </recent_temporary>
   </component>
