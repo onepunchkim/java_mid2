@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="hash study">
-      <change afterPath="$PROJECT_DIR$/src/collention/set/MyHashSetV2Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/set/member/HashAndEqualsMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/set/member/HashAndEqualsMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/set/member/MemberNoHashNoEq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/set/member/MemberOnlyHash.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +52,8 @@
     "Application.BoxMain2.executor": "Run",
     "Application.BoxMain3.executor": "Run",
     "Application.ContainerTest.executor": "Run",
+    "Application.HashAndEqualsMain1.executor": "Run",
+    "Application.HashAndEqualsMain2.executor": "Run",
     "Application.JavaHashCodeMain.executor": "Run",
     "Application.JavaListPerformanceTest.executor": "Run",
     "Application.ListEx1.executor": "Run",
@@ -98,20 +103,20 @@
       <recent name="generic.test.ex1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collention.set.member" />
       <recent name="collention.set" />
       <recent name="collention.list.test.ex1" />
       <recent name="collention.list" />
       <recent name="collention.link" />
-      <recent name="collention.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyHashSetV2Main2">
-    <configuration name="JavaHashCodeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.set.JavaHashCodeMain" />
+  <component name="RunManager" selected="Application.HashAndEqualsMain2">
+    <configuration name="HashAndEqualsMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.member.HashAndEqualsMain1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.set.*" />
+          <option name="PATTERN" value="collention.set.member.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,8 +124,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashSetV1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.set.MyHashSetV1Main" />
+    <configuration name="HashAndEqualsMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.member.HashAndEqualsMain2" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collention.set.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaHashCodeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.JavaHashCodeMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
@@ -158,26 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringHashMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.set.StringHashMain" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collention.set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashAndEqualsMain2" />
+        <item itemvalue="Application.HashAndEqualsMain1" />
         <item itemvalue="Application.MyHashSetV2Main2" />
         <item itemvalue="Application.MyHashSetV2Main1" />
         <item itemvalue="Application.JavaHashCodeMain" />
-        <item itemvalue="Application.StringHashMain" />
-        <item itemvalue="Application.MyHashSetV1Main" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729588800998</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="hash study">
+      <option name="closed" value="true" />
+      <created>1729590552590</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1729590552590</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
