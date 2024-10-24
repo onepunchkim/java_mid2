@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="hash study">
-      <change afterPath="$PROJECT_DIR$/src/collention/set/javaset/JavaSetMain.java" afterDir="false" />
+    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="set study">
+      <change afterPath="$PROJECT_DIR$/src/collention/set/test/UniqueNamesTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/set/test/UniqueNamesTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/set/test/UniqueNamesTest3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +84,9 @@
     "Application.ShoppingCartMain.executor": "Run",
     "Application.ShuttleTest.executor": "Run",
     "Application.StringHashMain.executor": "Run",
+    "Application.UniqueNamesTest1.executor": "Run",
+    "Application.UniqueNamesTest2.executor": "Run",
+    "Application.UniqueNamesTest3.executor": "Run",
     "Application.UnitPrinterTest.executor": "Run",
     "Application.UnitUtilTest.executor": "Run",
     "Application.WildcardMain1.executor": "Run",
@@ -103,53 +108,14 @@
       <recent name="generic.test.ex1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collention.set.test" />
       <recent name="collention.set.member" />
       <recent name="collention.set" />
       <recent name="collention.list.test.ex1" />
       <recent name="collention.list" />
-      <recent name="collention.link" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaSetMain">
-    <configuration name="HashAndEqualsMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.set.member.HashAndEqualsMain1" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collention.set.member.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashAndEqualsMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.set.member.HashAndEqualsMain2" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collention.set.member.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashAndEqualsMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.set.member.HashAndEqualsMain3" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collention.set.member.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UniqueNamesTest3">
     <configuration name="JavaSetMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.set.javaset.JavaSetMain" />
       <module name="java-mid2" />
@@ -176,13 +142,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UniqueNamesTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.test.UniqueNamesTest1" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collention.set.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueNamesTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.test.UniqueNamesTest2" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collention.set.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniqueNamesTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.set.test.UniqueNamesTest3" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collention.set.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UniqueNamesTest3" />
+        <item itemvalue="Application.UniqueNamesTest2" />
+        <item itemvalue="Application.UniqueNamesTest1" />
         <item itemvalue="Application.JavaSetMain" />
         <item itemvalue="Application.MyHashSetV3Main" />
-        <item itemvalue="Application.HashAndEqualsMain3" />
-        <item itemvalue="Application.HashAndEqualsMain2" />
-        <item itemvalue="Application.HashAndEqualsMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -201,14 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728134163412</updated>
-    </task>
-    <task id="LOCAL-00001" summary="test">
-      <option name="closed" value="true" />
-      <created>1728134230305</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1728134230305</updated>
     </task>
     <task id="LOCAL-00002" summary="test">
       <option name="closed" value="true" />
@@ -594,7 +591,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729674135775</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="set study">
+      <option name="closed" value="true" />
+      <created>1729758274196</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1729758274196</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -607,6 +612,7 @@
     <MESSAGE value="linkedlist study" />
     <MESSAGE value="list study" />
     <MESSAGE value="hash study" />
-    <option name="LAST_COMMIT_MESSAGE" value="hash study" />
+    <MESSAGE value="set study" />
+    <option name="LAST_COMMIT_MESSAGE" value="set study" />
   </component>
 </project>
