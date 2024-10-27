@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="map study">
-      <change afterPath="$PROJECT_DIR$/src/collention/map/JavaMapMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/deque/StackMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +87,7 @@
     "Application.SetOperationsTest.executor": "Run",
     "Application.ShoppingCartMain.executor": "Run",
     "Application.ShuttleTest.executor": "Run",
+    "Application.StackMain.executor": "Run",
     "Application.StringHashMain.executor": "Run",
     "Application.UniqueNamesTest1.executor": "Run",
     "Application.UniqueNamesTest2.executor": "Run",
@@ -119,7 +120,7 @@
       <recent name="collention.list.test.ex1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaMapMain">
+  <component name="RunManager" selected="Application.StackMain">
     <configuration name="JavaMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.map.JavaMapMain" />
       <module name="java-mid2" />
@@ -172,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.set.test.RectangleTest" />
+    <configuration name="StackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.deque.StackMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.set.test.*" />
+          <option name="PATTERN" value="collention.deque.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackMain" />
         <item itemvalue="Application.JavaMapMain" />
         <item itemvalue="Application.MapMain3" />
         <item itemvalue="Application.MapMain2" />
         <item itemvalue="Application.MapMain1" />
-        <item itemvalue="Application.RectangleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -210,14 +211,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728134163412</updated>
-    </task>
-    <task id="LOCAL-00006" summary="generic study">
-      <option name="closed" value="true" />
-      <created>1728200415053</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1728200415053</updated>
     </task>
     <task id="LOCAL-00007" summary="generic study">
       <option name="closed" value="true" />
@@ -603,7 +596,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730014660619</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="map study">
+      <option name="closed" value="true" />
+      <created>1730015699237</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1730015699237</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
