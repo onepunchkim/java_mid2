@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="stack study">
-      <change afterPath="$PROJECT_DIR$/src/collention/deque/QueueMain.java" afterDir="false" />
+    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="queue study">
+      <change afterPath="$PROJECT_DIR$/src/collention/deque/DequeMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +81,7 @@
     "Application.NodeMain2.executor": "Run",
     "Application.NodeMain3.executor": "Run",
     "Application.PairTest.executor": "Run",
+    "Application.QueueMain.executor": "Run",
     "Application.RectangleTest.executor": "Run",
     "Application.RowTypeMain.executor": "Run",
     "Application.SetOperationsTest.executor": "Run",
@@ -119,13 +120,13 @@
       <recent name="collention.list.test.ex1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueMain">
-    <configuration name="JavaMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.map.JavaMapMain" />
+  <component name="RunManager" selected="Application.DequeMain">
+    <configuration name="DequeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.deque.DequeMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.map.*" />
+          <option name="PATTERN" value="collention.deque.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.map.MapMain2" />
+    <configuration name="JavaMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.map.JavaMapMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
@@ -187,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DequeMain" />
         <item itemvalue="Application.QueueMain" />
         <item itemvalue="Application.StackMain" />
         <item itemvalue="Application.JavaMapMain" />
         <item itemvalue="Application.MapMain3" />
-        <item itemvalue="Application.MapMain2" />
       </list>
     </recent_temporary>
   </component>
@@ -210,14 +211,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728134163412</updated>
-    </task>
-    <task id="LOCAL-00008" summary="generic study">
-      <option name="closed" value="true" />
-      <created>1728204928434</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1728204928434</updated>
     </task>
     <task id="LOCAL-00009" summary="generic study">
       <option name="closed" value="true" />
@@ -603,7 +596,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730020185863</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="queue study">
+      <option name="closed" value="true" />
+      <created>1730020554013</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1730020554013</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -619,6 +620,7 @@
     <MESSAGE value="set study" />
     <MESSAGE value="map study" />
     <MESSAGE value="stack study" />
-    <option name="LAST_COMMIT_MESSAGE" value="stack study" />
+    <MESSAGE value="queue study" />
+    <option name="LAST_COMMIT_MESSAGE" value="queue study" />
   </component>
 </project>
