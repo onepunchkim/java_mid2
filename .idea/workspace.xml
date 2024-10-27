@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="queue study">
-      <change afterPath="$PROJECT_DIR$/src/collention/deque/DequeMain.java" afterDir="false" />
+    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="deque study">
+      <change afterPath="$PROJECT_DIR$/src/collention/deque/DequeStackMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
     "Application.BoxMain2.executor": "Run",
     "Application.BoxMain3.executor": "Run",
     "Application.ContainerTest.executor": "Run",
+    "Application.DequeMain.executor": "Run",
     "Application.HashAndEqualsMain1.executor": "Run",
     "Application.HashAndEqualsMain2.executor": "Run",
     "Application.HashAndEqualsMain3.executor": "Run",
@@ -120,7 +121,7 @@
       <recent name="collention.list.test.ex1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DequeMain">
+  <component name="RunManager" selected="Application.DequeQueueMain">
     <configuration name="DequeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.deque.DequeMain" />
       <module name="java-mid2" />
@@ -134,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.map.JavaMapMain" />
+    <configuration name="DequeQueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.deque.DequeQueueMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.map.*" />
+          <option name="PATTERN" value="collention.deque.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.map.MapMain3" />
+    <configuration name="DequeStackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.deque.DequeStackMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.map.*" />
+          <option name="PATTERN" value="collention.deque.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DequeQueueMain" />
+        <item itemvalue="Application.DequeStackMain" />
         <item itemvalue="Application.DequeMain" />
         <item itemvalue="Application.QueueMain" />
         <item itemvalue="Application.StackMain" />
-        <item itemvalue="Application.JavaMapMain" />
-        <item itemvalue="Application.MapMain3" />
       </list>
     </recent_temporary>
   </component>
@@ -211,14 +212,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728134163412</updated>
-    </task>
-    <task id="LOCAL-00009" summary="generic study">
-      <option name="closed" value="true" />
-      <created>1728206209250</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1728206209250</updated>
     </task>
     <task id="LOCAL-00010" summary="generic study">
       <option name="closed" value="true" />
@@ -604,7 +597,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730020554013</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="deque study">
+      <option name="closed" value="true" />
+      <created>1730020835008</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1730020835010</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -621,6 +622,7 @@
     <MESSAGE value="map study" />
     <MESSAGE value="stack study" />
     <MESSAGE value="queue study" />
-    <option name="LAST_COMMIT_MESSAGE" value="queue study" />
+    <MESSAGE value="deque study" />
+    <option name="LAST_COMMIT_MESSAGE" value="deque study" />
   </component>
 </project>
