@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="deque study">
-      <change afterPath="$PROJECT_DIR$/src/collention/deque/DequeStackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/map/test/ArrayToMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/map/test/CommonKeyValueSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/map/test/CommonKeyValueSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/map/test/WordFrequencyTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/map/test/WordFrequencyTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +48,17 @@
     "Application.ArrayEx1.executor": "Run",
     "Application.ArrayMain1.executor": "Run",
     "Application.ArrayMain2.executor": "Run",
+    "Application.ArrayToMapTest.executor": "Run",
     "Application.BatchProcessorMain.executor": "Run",
     "Application.BoxMain1.executor": "Run",
     "Application.BoxMain2.executor": "Run",
     "Application.BoxMain3.executor": "Run",
+    "Application.CommonKeyValueSum1.executor": "Run",
+    "Application.CommonKeyValueSum2.executor": "Run",
     "Application.ContainerTest.executor": "Run",
     "Application.DequeMain.executor": "Run",
+    "Application.DequeQueueMain.executor": "Run",
+    "Application.DequeStackMain.executor": "Run",
     "Application.HashAndEqualsMain1.executor": "Run",
     "Application.HashAndEqualsMain2.executor": "Run",
     "Application.HashAndEqualsMain3.executor": "Run",
@@ -97,6 +107,8 @@
     "Application.UnitUtilTest.executor": "Run",
     "Application.WildcardMain1.executor": "Run",
     "Application.WildcardMain2.executor": "Run",
+    "Application.WordFrequencyTest1.executor": "Run",
+    "Application.WordFrequencyTest2.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -114,20 +126,20 @@
       <recent name="generic.test.ex1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collention.map.test" />
+      <recent name="collention.deque" />
       <recent name="collention.map" />
       <recent name="collention.set.test" />
       <recent name="collention.set.member" />
-      <recent name="collention.set" />
-      <recent name="collention.list.test.ex1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DequeQueueMain">
-    <configuration name="DequeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.deque.DequeMain" />
+  <component name="RunManager" selected="Application.ItemPriceTest">
+    <configuration name="CommonKeyValueSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.map.test.CommonKeyValueSum1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.deque.*" />
+          <option name="PATTERN" value="collention.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DequeQueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.deque.DequeQueueMain" />
+    <configuration name="CommonKeyValueSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.map.test.CommonKeyValueSum2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.deque.*" />
+          <option name="PATTERN" value="collention.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DequeStackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.deque.DequeStackMain" />
+    <configuration name="ItemPriceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.map.test.ItemPriceTest" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.deque.*" />
+          <option name="PATTERN" value="collention.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.deque.QueueMain" />
+    <configuration name="WordFrequencyTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.map.test.WordFrequencyTest1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.deque.*" />
+          <option name="PATTERN" value="collention.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.deque.StackMain" />
+    <configuration name="WordFrequencyTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.map.test.WordFrequencyTest2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.deque.*" />
+          <option name="PATTERN" value="collention.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DequeQueueMain" />
-        <item itemvalue="Application.DequeStackMain" />
-        <item itemvalue="Application.DequeMain" />
-        <item itemvalue="Application.QueueMain" />
-        <item itemvalue="Application.StackMain" />
+        <item itemvalue="Application.ItemPriceTest" />
+        <item itemvalue="Application.WordFrequencyTest2" />
+        <item itemvalue="Application.WordFrequencyTest1" />
+        <item itemvalue="Application.CommonKeyValueSum2" />
+        <item itemvalue="Application.CommonKeyValueSum1" />
       </list>
     </recent_temporary>
   </component>
@@ -212,14 +224,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728134163412</updated>
-    </task>
-    <task id="LOCAL-00010" summary="generic study">
-      <option name="closed" value="true" />
-      <created>1728373873697</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1728373873697</updated>
     </task>
     <task id="LOCAL-00011" summary="generic study">
       <option name="closed" value="true" />
@@ -605,7 +609,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730020835010</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="deque study">
+      <option name="closed" value="true" />
+      <created>1730021252187</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1730021252187</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
