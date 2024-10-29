@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="map study">
-      <change afterPath="$PROJECT_DIR$/src/collention/map/test/DictionaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/map/test/cart/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/map/test/cart/CartMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/map/test/cart/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/map/test/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/map/test/member/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/map/test/member/MemberRepositoryMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +54,7 @@
     "Application.BoxMain1.executor": "Run",
     "Application.BoxMain2.executor": "Run",
     "Application.BoxMain3.executor": "Run",
+    "Application.CartMain.executor": "Run",
     "Application.CommonKeyValueSum1.executor": "Run",
     "Application.CommonKeyValueSum2.executor": "Run",
     "Application.ContainerTest.executor": "Run",
@@ -70,6 +76,7 @@
     "Application.MapMain1.executor": "Run",
     "Application.MapMain2.executor": "Run",
     "Application.MapMain3.executor": "Run",
+    "Application.MemberRepositoryMain.executor": "Run",
     "Application.MethodMain1.executor": "Run",
     "Application.MethodMain2.executor": "Run",
     "Application.MethodMain3.executor": "Run",
@@ -118,10 +125,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="collention.map.test.cart" />
+      <recent name="collention.map.test.member" />
       <recent name="collention.list.test.ex2" />
       <recent name="generic.test.ex3" />
       <recent name="generic.test.ex2" />
-      <recent name="generic.test.ex1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="collention.map.test" />
@@ -131,13 +139,13 @@
       <recent name="collention.set.member" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DictionaryTest">
-    <configuration name="CommonKeyValueSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.map.test.CommonKeyValueSum2" />
+  <component name="RunManager" selected="Application.CartMain">
+    <configuration name="CartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.map.test.cart.CartMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.map.test.*" />
+          <option name="PATTERN" value="collention.map.test.cart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordFrequencyTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.map.test.WordFrequencyTest1" />
+    <configuration name="MemberRepositoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.map.test.member.MemberRepositoryMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.map.test.*" />
+          <option name="PATTERN" value="collention.map.test.member.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CartMain" />
+        <item itemvalue="Application.MemberRepositoryMain" />
         <item itemvalue="Application.DictionaryTest" />
         <item itemvalue="Application.ItemPriceTest" />
         <item itemvalue="Application.WordFrequencyTest2" />
-        <item itemvalue="Application.WordFrequencyTest1" />
-        <item itemvalue="Application.CommonKeyValueSum2" />
       </list>
     </recent_temporary>
   </component>
@@ -222,14 +230,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728134163412</updated>
-    </task>
-    <task id="LOCAL-00012" summary="generic study">
-      <option name="closed" value="true" />
-      <created>1728388319867</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1728388319867</updated>
     </task>
     <task id="LOCAL-00013" summary="generic study">
       <option name="closed" value="true" />
@@ -615,7 +615,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730022948092</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="map study">
+      <option name="closed" value="true" />
+      <created>1730189645410</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1730189645410</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
