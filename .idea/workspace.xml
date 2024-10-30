@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="queue study">
-      <change afterPath="$PROJECT_DIR$/src/collention/iterable/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collention/iterable/MyArrayIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collention/iterable/MyArrayMain.java" afterDir="false" />
+    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="iterable study">
+      <change afterPath="$PROJECT_DIR$/src/collention/iterable/JavaIterableMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collention/iterable/MyArrayMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collention/iterable/MyArrayMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +65,7 @@
     "Application.HashAndEqualsMain3.executor": "Run",
     "Application.ItemPriceTest.executor": "Run",
     "Application.JavaHashCodeMain.executor": "Run",
+    "Application.JavaIterableMain.executor": "Run",
     "Application.JavaListPerformanceTest.executor": "Run",
     "Application.JavaMapMain.executor": "Run",
     "Application.JavaSetMain.executor": "Run",
@@ -142,13 +142,26 @@
       <recent name="collention.set.member" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyArrayMain">
+  <component name="RunManager" selected="Application.JavaIterableMain">
     <configuration name="BrowserHistoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.map.test.stack.BrowserHistoryTest" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="collention.map.test.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaIterableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.iterable.JavaIterableMain" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collention.iterable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,26 +208,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleHistoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.map.test.stack.SimpleHistoryTest" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collention.map.test.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaIterableMain" />
         <item itemvalue="Application.MyArrayMain" />
         <item itemvalue="Application.PrinterQueueTest" />
         <item itemvalue="Application.SchedulerTest" />
         <item itemvalue="Application.BrowserHistoryTest" />
-        <item itemvalue="Application.SimpleHistoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -233,14 +233,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728134163412</updated>
-    </task>
-    <task id="LOCAL-00016" summary="generic study">
-      <option name="closed" value="true" />
-      <created>1728544865879</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1728544865879</updated>
     </task>
     <task id="LOCAL-00017" summary="generic study">
       <option name="closed" value="true" />
@@ -626,7 +618,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730194973263</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="iterable study">
+      <option name="closed" value="true" />
+      <created>1730278686230</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1730278686231</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -644,6 +644,7 @@
     <MESSAGE value="map study" />
     <MESSAGE value="stack study" />
     <MESSAGE value="queue study" />
-    <option name="LAST_COMMIT_MESSAGE" value="queue study" />
+    <MESSAGE value="iterable study" />
+    <option name="LAST_COMMIT_MESSAGE" value="iterable study" />
   </component>
 </project>
