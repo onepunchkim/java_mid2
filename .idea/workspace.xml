@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="iterable study">
-      <change afterPath="$PROJECT_DIR$/src/collention/iterable/JavaIterableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/compare/IdComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/compare/MyUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/compare/SortMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/compare/SortMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/compare/SortMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collention/iterable/MyArrayMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collention/iterable/MyArrayMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +109,10 @@
     "Application.ShoppingCartMain.executor": "Run",
     "Application.ShuttleTest.executor": "Run",
     "Application.SimpleHistoryTest.executor": "Run",
+    "Application.SortMain1.executor": "Run",
+    "Application.SortMain2 (1).executor": "Run",
+    "Application.SortMain2.executor": "Run",
+    "Application.SortMain3.executor": "Run",
     "Application.StackMain.executor": "Run",
     "Application.StringHashMain.executor": "Run",
     "Application.UniqueNamesTest1.executor": "Run",
@@ -142,20 +149,7 @@
       <recent name="collention.set.member" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JavaIterableMain">
-    <configuration name="BrowserHistoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.map.test.stack.BrowserHistoryTest" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collention.map.test.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SortMain3">
     <configuration name="JavaIterableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.iterable.JavaIterableMain" />
       <module name="java-mid2" />
@@ -169,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.iterable.MyArrayMain" />
+    <configuration name="SortMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.compare.SortMain1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.iterable.*" />
+          <option name="PATTERN" value="collention.compare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrinterQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.map.test.queue.PrinterQueueTest" />
+    <configuration name="SortMain2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.compare.SortMain2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.map.test.queue.*" />
+          <option name="PATTERN" value="collention.compare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +189,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchedulerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.map.test.queue.SchedulerTest" />
+    <configuration name="SortMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.compare.SortMain2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.map.test.queue.*" />
+          <option name="PATTERN" value="collention.compare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.compare.SortMain3" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collention.compare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortMain3" />
+        <item itemvalue="Application.SortMain2" />
+        <item itemvalue="Application.SortMain2 (1)" />
+        <item itemvalue="Application.SortMain1" />
         <item itemvalue="Application.JavaIterableMain" />
-        <item itemvalue="Application.MyArrayMain" />
-        <item itemvalue="Application.PrinterQueueTest" />
-        <item itemvalue="Application.SchedulerTest" />
-        <item itemvalue="Application.BrowserHistoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -233,14 +240,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728134163412</updated>
-    </task>
-    <task id="LOCAL-00017" summary="generic study">
-      <option name="closed" value="true" />
-      <created>1728545625464</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1728545625464</updated>
     </task>
     <task id="LOCAL-00018" summary="generic study">
       <option name="closed" value="true" />
@@ -626,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730278686231</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="iterable study">
+      <option name="closed" value="true" />
+      <created>1730281021172</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1730281021172</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
