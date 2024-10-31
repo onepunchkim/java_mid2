@@ -24,7 +24,7 @@ public class Deck {
         Collections.shuffle(cards);
     }
 
-    public Card drawCaed() {
+    public Card drawCard() {
         return cards.remove(0);
     }
 }

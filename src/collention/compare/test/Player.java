@@ -13,7 +13,7 @@ public class Player {
     }
 
     public void drawCard(Deck deck) {
-        hand.add(deck.drawCaed());
+        hand.add(deck.drawCard());
     }
 
     public int rankSum() {
