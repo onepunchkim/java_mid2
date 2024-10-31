@@ -223,22 +223,6 @@
       <option name="presentableId" value="Default" />
       <updated>1728134163412</updated>
     </task>
-    <task id="LOCAL-00013" summary="generic study">
-      <option name="closed" value="true" />
-      <created>1728467613360</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1728467613360</updated>
-    </task>
-    <task id="LOCAL-00014" summary="generic study">
-      <option name="closed" value="true" />
-      <created>1728468166171</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1728468166171</updated>
-    </task>
     <task id="LOCAL-00015" summary="generic study">
       <option name="closed" value="true" />
       <created>1728469151133</created>
@@ -615,7 +599,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730376844085</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="compare study">
+      <option name="closed" value="true" />
+      <created>1730377469290</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1730377469290</updated>
+    </task>
+    <task id="LOCAL-00063" summary="compare study">
+      <option name="closed" value="true" />
+      <created>1730377536541</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1730377536541</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
