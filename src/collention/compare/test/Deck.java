@@ -13,7 +13,7 @@ public class Deck {
     }
 
     public void initCard() {
-        for (int i = 1; i < 13; i++) {
+        for (int i = 1; i <= 13; i++) {
             for (Suit suit : Suit.values()) {
                cards.add(new Card(i, suit));
             }
