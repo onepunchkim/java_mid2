@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="iterable study">
-      <change afterPath="$PROJECT_DIR$/src/collention/compare/IdComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collention/compare/MyUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collention/compare/SortMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collention/compare/SortMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collention/compare/SortMain3.java" afterDir="false" />
+    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="compare study">
+      <change afterPath="$PROJECT_DIR$/src/collention/compare/SortMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/compare/SortMain5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,6 +110,8 @@
     "Application.SortMain2 (1).executor": "Run",
     "Application.SortMain2.executor": "Run",
     "Application.SortMain3.executor": "Run",
+    "Application.SortMain4.executor": "Run",
+    "Application.SortMain5.executor": "Run",
     "Application.StackMain.executor": "Run",
     "Application.StringHashMain.executor": "Run",
     "Application.UniqueNamesTest1.executor": "Run",
@@ -142,40 +141,14 @@
       <recent name="collention.list.test.ex2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collention.compare" />
       <recent name="collention.map.test" />
       <recent name="collention.deque" />
       <recent name="collention.map" />
       <recent name="collention.set.test" />
-      <recent name="collention.set.member" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortMain3">
-    <configuration name="JavaIterableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.iterable.JavaIterableMain" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collention.iterable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.compare.SortMain1" />
-      <module name="java-mid2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collention.compare.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SortMain5">
     <configuration name="SortMain2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collention.compare.SortMain2" />
       <module name="java-mid2" />
@@ -215,13 +188,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortMain4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.compare.SortMain4" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collention.compare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortMain5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.compare.SortMain5" />
+      <module name="java-mid2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collention.compare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortMain5" />
+        <item itemvalue="Application.SortMain4" />
         <item itemvalue="Application.SortMain3" />
         <item itemvalue="Application.SortMain2" />
         <item itemvalue="Application.SortMain2 (1)" />
-        <item itemvalue="Application.SortMain1" />
-        <item itemvalue="Application.JavaIterableMain" />
       </list>
     </recent_temporary>
   </component>
@@ -240,14 +239,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728134163412</updated>
-    </task>
-    <task id="LOCAL-00018" summary="generic study">
-      <option name="closed" value="true" />
-      <created>1728546481551</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1728546481551</updated>
     </task>
     <task id="LOCAL-00019" summary="generic study">
       <option name="closed" value="true" />
@@ -633,7 +624,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730281021172</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="compare study">
+      <option name="closed" value="true" />
+      <created>1730359264260</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1730359264261</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -652,6 +651,7 @@
     <MESSAGE value="stack study" />
     <MESSAGE value="queue study" />
     <MESSAGE value="iterable study" />
-    <option name="LAST_COMMIT_MESSAGE" value="iterable study" />
+    <MESSAGE value="compare study" />
+    <option name="LAST_COMMIT_MESSAGE" value="compare study" />
   </component>
 </project>
