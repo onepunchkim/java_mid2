@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="utils study" />
+    <list default="true" id="4a46ad4d-aead-40ba-822c-b5e6fbb32279" name="Changes" comment="deque study">
+      <change afterPath="$PROJECT_DIR$/src/collention/compare/test/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/compare/test/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/compare/test/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collention/compare/test/Suit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collention/compare/test/CardGameMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collention/compare/test/CardGameMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -26,6 +33,7 @@
 }</component>
   <component name="ProjectId" id="2n1ITKtOGRgS5XDGVusw3mAd8JX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -47,24 +55,17 @@
     "Application.BoxMain1.executor": "Run",
     "Application.BoxMain2.executor": "Run",
     "Application.BoxMain3.executor": "Run",
-    "Application.BrowserHistoryTest.executor": "Run",
-    "Application.CartMain.executor": "Run",
-    "Application.CollectionsSortMain.executor": "Run",
+    "Application.CardGameMain.executor": "Run",
     "Application.CommonKeyValueSum1.executor": "Run",
     "Application.CommonKeyValueSum2.executor": "Run",
     "Application.ContainerTest.executor": "Run",
     "Application.DequeMain.executor": "Run",
     "Application.DequeQueueMain.executor": "Run",
     "Application.DequeStackMain.executor": "Run",
-    "Application.DictionaryTest.executor": "Run",
-    "Application.EmptyListMain.executor": "Run",
     "Application.HashAndEqualsMain1.executor": "Run",
     "Application.HashAndEqualsMain2.executor": "Run",
     "Application.HashAndEqualsMain3.executor": "Run",
-    "Application.ImmutableMain.executor": "Run",
-    "Application.ItemPriceTest.executor": "Run",
     "Application.JavaHashCodeMain.executor": "Run",
-    "Application.JavaIterableMain.executor": "Run",
     "Application.JavaListPerformanceTest.executor": "Run",
     "Application.JavaMapMain.executor": "Run",
     "Application.JavaSetMain.executor": "Run",
@@ -74,7 +75,6 @@
     "Application.MapMain1.executor": "Run",
     "Application.MapMain2.executor": "Run",
     "Application.MapMain3.executor": "Run",
-    "Application.MemberRepositoryMain.executor": "Run",
     "Application.MethodMain1.executor": "Run",
     "Application.MethodMain2.executor": "Run",
     "Application.MethodMain3.executor": "Run",
@@ -83,7 +83,6 @@
     "Application.MyArrayListV3BadMain.executor": "Run",
     "Application.MyArrayListV3Main.executor": "Run",
     "Application.MyArrayListV4Main.executor": "Run",
-    "Application.MyArrayMain.executor": "Run",
     "Application.MyHashSetV1Main.executor": "Run",
     "Application.MyHashSetV2Main1.executor": "Run",
     "Application.MyHashSetV2Main2.executor": "Run",
@@ -95,26 +94,15 @@
     "Application.NodeMain1.executor": "Run",
     "Application.NodeMain2.executor": "Run",
     "Application.NodeMain3.executor": "Run",
-    "Application.OfMain.executor": "Run",
     "Application.PairTest.executor": "Run",
-    "Application.PrinterQueueTest.executor": "Run",
     "Application.QueueMain.executor": "Run",
     "Application.RectangleTest.executor": "Run",
     "Application.RowTypeMain.executor": "Run",
-    "Application.SchedulerTest.executor": "Run",
     "Application.SetOperationsTest.executor": "Run",
     "Application.ShoppingCartMain.executor": "Run",
     "Application.ShuttleTest.executor": "Run",
-    "Application.SimpleHistoryTest.executor": "Run",
-    "Application.SortMain1.executor": "Run",
-    "Application.SortMain2 (1).executor": "Run",
-    "Application.SortMain2.executor": "Run",
-    "Application.SortMain3.executor": "Run",
-    "Application.SortMain4.executor": "Run",
-    "Application.SortMain5.executor": "Run",
     "Application.StackMain.executor": "Run",
     "Application.StringHashMain.executor": "Run",
-    "Application.SyncMain.executor": "Run",
     "Application.UniqueNamesTest1.executor": "Run",
     "Application.UniqueNamesTest2.executor": "Run",
     "Application.UniqueNamesTest3.executor": "Run",
@@ -135,27 +123,26 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="collention.map.test.queue" />
-      <recent name="collention.map.test.stack" />
-      <recent name="collention.map.test.cart" />
-      <recent name="collention.map.test.member" />
       <recent name="collention.list.test.ex2" />
+      <recent name="generic.test.ex3" />
+      <recent name="generic.test.ex2" />
+      <recent name="generic.test.ex1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="collention.compare" />
       <recent name="collention.map.test" />
       <recent name="collention.deque" />
       <recent name="collention.map" />
       <recent name="collention.set.test" />
+      <recent name="collention.set.member" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SyncMain">
-    <configuration name="CollectionsSortMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.utils.CollectionsSortMain" />
+  <component name="RunManager" selected="Application.CardGameMain">
+    <configuration name="CardGameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.compare.test.CardGameMain" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.utils.*" />
+          <option name="PATTERN" value="collention.compare.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmptyListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.utils.EmptyListMain" />
+    <configuration name="CommonKeyValueSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.map.test.CommonKeyValueSum2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.utils.*" />
+          <option name="PATTERN" value="collention.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImmutableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.utils.ImmutableMain" />
+    <configuration name="ItemPriceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.map.test.ItemPriceTest" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.utils.*" />
+          <option name="PATTERN" value="collention.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OfMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.utils.OfMain" />
+    <configuration name="WordFrequencyTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.map.test.WordFrequencyTest1" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.utils.*" />
+          <option name="PATTERN" value="collention.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SyncMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collention.utils.SyncMain" />
+    <configuration name="WordFrequencyTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collention.map.test.WordFrequencyTest2" />
       <module name="java-mid2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collention.utils.*" />
+          <option name="PATTERN" value="collention.map.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SyncMain" />
-        <item itemvalue="Application.EmptyListMain" />
-        <item itemvalue="Application.ImmutableMain" />
-        <item itemvalue="Application.OfMain" />
-        <item itemvalue="Application.CollectionsSortMain" />
+        <item itemvalue="Application.CardGameMain" />
+        <item itemvalue="Application.ItemPriceTest" />
+        <item itemvalue="Application.WordFrequencyTest2" />
+        <item itemvalue="Application.WordFrequencyTest1" />
+        <item itemvalue="Application.CommonKeyValueSum2" />
       </list>
     </recent_temporary>
   </component>
@@ -240,6 +227,86 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728134163412</updated>
+    </task>
+    <task id="LOCAL-00011" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728374422295</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728374422295</updated>
+    </task>
+    <task id="LOCAL-00012" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728388319867</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728388319867</updated>
+    </task>
+    <task id="LOCAL-00013" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728467613360</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728467613360</updated>
+    </task>
+    <task id="LOCAL-00014" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728468166171</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1728468166171</updated>
+    </task>
+    <task id="LOCAL-00015" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728469151133</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1728469151133</updated>
+    </task>
+    <task id="LOCAL-00016" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728544865879</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1728544865879</updated>
+    </task>
+    <task id="LOCAL-00017" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728545625464</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1728545625464</updated>
+    </task>
+    <task id="LOCAL-00018" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728546481551</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1728546481551</updated>
+    </task>
+    <task id="LOCAL-00019" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728546635355</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1728546635355</updated>
+    </task>
+    <task id="LOCAL-00020" summary="generic study">
+      <option name="closed" value="true" />
+      <created>1728546669980</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1728546669980</updated>
     </task>
     <task id="LOCAL-00021" summary="generic study">
       <option name="closed" value="true" />
@@ -553,87 +620,7 @@
       <option name="project" value="LOCAL" />
       <updated>1730021252187</updated>
     </task>
-    <task id="LOCAL-00060" summary="map study">
-      <option name="closed" value="true" />
-      <created>1730022948092</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1730022948092</updated>
-    </task>
-    <task id="LOCAL-00061" summary="map study">
-      <option name="closed" value="true" />
-      <created>1730189645410</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1730189645410</updated>
-    </task>
-    <task id="LOCAL-00062" summary="map study">
-      <option name="closed" value="true" />
-      <created>1730191955773</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1730191955773</updated>
-    </task>
-    <task id="LOCAL-00063" summary="stack study">
-      <option name="closed" value="true" />
-      <created>1730193666157</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1730193666157</updated>
-    </task>
-    <task id="LOCAL-00064" summary="queue study">
-      <option name="closed" value="true" />
-      <created>1730194973263</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1730194973263</updated>
-    </task>
-    <task id="LOCAL-00065" summary="iterable study">
-      <option name="closed" value="true" />
-      <created>1730278686230</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1730278686231</updated>
-    </task>
-    <task id="LOCAL-00066" summary="iterable study">
-      <option name="closed" value="true" />
-      <created>1730281021172</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1730281021172</updated>
-    </task>
-    <task id="LOCAL-00067" summary="compare study">
-      <option name="closed" value="true" />
-      <created>1730359264260</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1730359264261</updated>
-    </task>
-    <task id="LOCAL-00068" summary="compare study">
-      <option name="closed" value="true" />
-      <created>1730360414195</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1730360414195</updated>
-    </task>
-    <task id="LOCAL-00069" summary="utils study">
-      <option name="closed" value="true" />
-      <created>1730364604856</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1730364604856</updated>
-    </task>
-    <option name="localTasksCounter" value="70" />
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -647,13 +634,10 @@
     <MESSAGE value="list study" />
     <MESSAGE value="hash study" />
     <MESSAGE value="set study" />
-    <MESSAGE value="deque study" />
     <MESSAGE value="map study" />
     <MESSAGE value="stack study" />
     <MESSAGE value="queue study" />
-    <MESSAGE value="iterable study" />
-    <MESSAGE value="compare study" />
-    <MESSAGE value="utils study" />
-    <option name="LAST_COMMIT_MESSAGE" value="utils study" />
+    <MESSAGE value="deque study" />
+    <option name="LAST_COMMIT_MESSAGE" value="deque study" />
   </component>
 </project>
